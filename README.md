@@ -1,26 +1,26 @@
 ```
-::::::::::::::::.            ..:::::::::::::.          ulyssies@adams
-:::::::::::::.               ....::::::::::::           
-:::::::::::.      .              .:::::::::::           Uptime:     24 years, still learning
-:::::::::::.        .-===-.  .    .::::::::::           Status:     Open to work, currently pursuing industry certifications and building projects
-:::::::::..       .:=+*##+--..     ::::::::::           IDEs:       VSCode, IntelliJ, Android Studio
-::::::::::       .:=*#%%#*=-:.     .:::::::::          
-::::::::::.   .::---:=##=----::    ::::::::::           Languages.Programming:  Python, JavaScript, Java, SQL
-::::::::::.   :=+==++=##*+=++*=   .::::::::::           Languages.Markup:       HTML, CSS, Markdown
-::::::::::::-.:+##%#++####%%##+:+-:::::::::::           Languages.Spoken:       English
-::::::::::::---+*##*==***#%%%*+#+::::::::::::          
-........::::::.=+*++==++*#**#+-=:::::::::::::           Hobbies.Outside.Tech:   Soccer, Photography, Music Discovery
-............:..-+*+==+++++*#*-.::::::::::::::           Hobbies.Gaming:         Competitive Shooters, Rogue-likes, Minecraft
-...............:-=*******##+=::::::::::::::::          
-...............---=+*####*+*+::::::::::::::::           — About Me —
-............. .+=---===+++*##:.::::::::::::::           I’m a recent Computer Science graduate who enjoys
-..........    .*#*+===+**##%%:  ...::::::::::           turning ideas into interactive tools, clean interfaces,
-.....          =%%%%#***#%@@#.       ...:::::           and data-driven insights. Driven by curiosity, creativity,
-               :#%%%#+++*%@@=             ...           and a desire to build things that matter.
-                *%#=:---=*#%.                          
-                =%@%=:-=@@%+                            — Contact —
-                :%@%=:--%%%-                            Email:     ulyssiesadams@gmail.com
-                 *@*:---+@#.                            LinkedIn:  linkedin.com/in/ulyssiesadams
-                                                        GitHub:    github.com/Ulyssies
-                                                        Discord:   ulyzoa
+::::::::::::::::.            ..:::::::::::::.          ulysses@adams ____________________________________________________________
+:::::::::::::.               ....::::::::::::          • `Uptime:` ...................... `24 years, still learning`
+:::::::::::.      .              .:::::::::::          • `IDEs:` ........................ `VSCode, IntelliJ, Android Studio`
+:::::::::::.        .-===-.  .    .::::::::::          
+:::::::::..       .:=+*##+--..     ::::::::::          • `Languages.Programming:` ...... `Python`, `JavaScript`, `Java`, `SQL`
+::::::::::       .:=*#%%#*=-:.     .:::::::::          • `Languages.Markup:` .......... `HTML`, `CSS`, `Markdown`
+::::::::::.   .::---:=##=----::    ::::::::::          • `Languages.Spoken:` .......... `English`, `Tagalog`
+::::::::::.   :=+==++=##*+=++*=   .::::::::::          
+::::::::::::-.:+##%#++####%%##+:+-:::::::::::          • `Hobbies.Outside.Tech:` ...... `Soccer`, `Photography`, `Music Discovery`
+::::::::::::---+*##*==***#%%%*+#+::::::::::::          • `Hobbies.Gaming:` ............ `Competitive Games`, `Rogue-likes`
+........::::::.=+*++==++*#**#+-=:::::::::::::          
+............:..-+*+==+++++*#*-.::::::::::::::          — `About Me` —
+...............:-=*******##+=::::::::::::::::          I’m a recent Computer Science graduate who enjoys
+...............---=+*####*+*+::::::::::::::::          turning ideas into interactive tools, clean interfaces,
+............. .+=---===+++*##:.::::::::::::::          and data-driven insights. Driven by curiosity, creativity,
+..........    .*#*+===+**##%%:  ...::::::::::          and a desire to build things that matter.
+.....          =%%%%#***#%@@#.       ...:::::          
+               :#%%%#+++*%@@=             ...          — `Contact` —
+                *%#=:---=*#%.                          • `Email:` ...................... ulyssiesadams@gmail.com
+                =%@%=:-=@@%+                           • `LinkedIn:` ................... linkedin.com/in/ulyssiesadams
+                :%@%=:--%%%-                           • `GitHub:` ..................... github.com/UlyssiesAdams
+                 *@*:---+@#.                           • `Discord:` .................... ulyssesdev#0001
+                                                       
+                                                       
 ```
