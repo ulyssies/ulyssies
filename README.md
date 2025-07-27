@@ -10,13 +10,13 @@
 ::::::::::::-.:+##%#++####%%##+:+-:::::::::::          • `Hobbies.Outside.Tech:` ...... `Soccer`, `Photography`, `Movies`
 ::::::::::::---+*##*==***#%%%*+#+::::::::::::          • `Hobbies.Gaming:` ............ `Competitive Games`, `Rogue-likes`
 ........::::::.=+*++==++*#**#+-=:::::::::::::          
-............:..-+*+==+++++*#*-.::::::::::::::          — `About Me` —
+............:..-+*+==+++++*#*-.::::::::::::::          — `About Me` ____________________________________________________________
 ...............:-=*******##+=::::::::::::::::          I’m a recent Computer Science graduate who enjoys
 ...............---=+*####*+*+::::::::::::::::          turning ideas into interactive tools, clean interfaces,
 ............. .+=---===+++*##:.::::::::::::::          and data-driven insights. Driven by curiosity, creativity,
 ..........    .*#*+===+**##%%:  ...::::::::::          and a desire to build things that matter.
 .....          =%%%%#***#%@@#.       ...:::::          
-               :#%%%#+++*%@@=             ...          — `Contact` —
+               :#%%%#+++*%@@=             ...          — `Contact` ____________________________________________________________
                 *%#=:---=*#%.                          • `Email:` ...................... ulyssiesadams@gmail.com
                 =%@%=:-=@@%+                           • `LinkedIn:` ................... linkedin.com/in/ulyssiesadams
                 :%@%=:--%%%-                           • `GitHub:` ..................... github.com/Ulyssies
