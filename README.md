@@ -5,9 +5,9 @@
 :::::::::::.        .-===-.  .    .::::::::::          
 :::::::::..       .:=+*##+--..     ::::::::::          • `Languages.Programming:` ...... `Python`, `JavaScript`, `Java`, `SQL`
 ::::::::::       .:=*#%%#*=-:.     .:::::::::          • `Languages.Markup:` .......... `HTML`, `CSS`, `Markdown`
-::::::::::.   .::---:=##=----::    ::::::::::          • `Languages.Spoken:` .......... `English`, `Tagalog`
+::::::::::.   .::---:=##=----::    ::::::::::          • `Languages.Spoken:` .......... `English`
 ::::::::::.   :=+==++=##*+=++*=   .::::::::::          
-::::::::::::-.:+##%#++####%%##+:+-:::::::::::          • `Hobbies.Outside.Tech:` ...... `Soccer`, `Photography`, `Music Discovery`
+::::::::::::-.:+##%#++####%%##+:+-:::::::::::          • `Hobbies.Outside.Tech:` ...... `Soccer`, `Photography`, `Movies`
 ::::::::::::---+*##*==***#%%%*+#+::::::::::::          • `Hobbies.Gaming:` ............ `Competitive Games`, `Rogue-likes`
 ........::::::.=+*++==++*#**#+-=:::::::::::::          
 ............:..-+*+==+++++*#*-.::::::::::::::          — `About Me` —
@@ -19,8 +19,8 @@
                :#%%%#+++*%@@=             ...          — `Contact` —
                 *%#=:---=*#%.                          • `Email:` ...................... ulyssiesadams@gmail.com
                 =%@%=:-=@@%+                           • `LinkedIn:` ................... linkedin.com/in/ulyssiesadams
-                :%@%=:--%%%-                           • `GitHub:` ..................... github.com/UlyssiesAdams
-                 *@*:---+@#.                           • `Discord:` .................... ulyssesdev#0001
+                :%@%=:--%%%-                           • `GitHub:` ..................... github.com/Ulyssies
+                 *@*:---+@#.                           • `Discord:` .................... ulyzoa
                                                        
                                                        
 ```
