@@ -20,7 +20,7 @@
                 *%#=:---=*#%.                          • `Email:` ...................... ulyssiesadams@gmail.com
                 =%@%=:-=@@%+                           • `LinkedIn:` ................... linkedin.com/in/ulyssiesadams
                 :%@%=:--%%%-                           • `GitHub:` ..................... github.com/Ulyssies
-                 *@*:---+@#.                           • `Discord:` .................... ulyzoa
+                 *@*:---+@#.                           • 
                                                        
                                                        
 ```
