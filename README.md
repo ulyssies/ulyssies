@@ -1,14 +1,14 @@
 ```
 ::::::::::::::::.            ..:::::::::::::.          ulysses@adams ____________________________________________________________
-:::::::::::::.               ....::::::::::::          • `Uptime:` ...................... `24 years, still learning`
-:::::::::::.      .              .:::::::::::          • `IDEs:` ........................ `VSCode, IntelliJ, Android Studio`
+:::::::::::::.               ....::::::::::::          • `Uptime:` ................. `24 years, still learning`
+:::::::::::.      .              .:::::::::::          • `IDEs:` ................... `VSCode, IntelliJ, Android Studio`
 :::::::::::.        .-===-.  .    .::::::::::          
-:::::::::..       .:=+*##+--..     ::::::::::          • `Languages.Programming:` ...... `Python`, `JavaScript`, `Java`, `SQL`
-::::::::::       .:=*#%%#*=-:.     .:::::::::          • `Languages.Markup:` .......... `HTML`, `CSS`, `Markdown`
-::::::::::.   .::---:=##=----::    ::::::::::          • `Languages.Spoken:` .......... `English`
+:::::::::..       .:=+*##+--..     ::::::::::          • `Languages.Programming:` ... `Python`, `JavaScript`, `Java`, `SQL`
+::::::::::       .:=*#%%#*=-:.     .:::::::::          • `Languages.Markup:` ........ `HTML`, `CSS`, `Markdown`
+::::::::::.   .::---:=##=----::    ::::::::::          • `Languages.Spoken:` ........ `English`
 ::::::::::.   :=+==++=##*+=++*=   .::::::::::          
-::::::::::::-.:+##%#++####%%##+:+-:::::::::::          • `Hobbies.Outside.Tech:` ...... `Soccer`, `Photography`, `Movies`
-::::::::::::---+*##*==***#%%%*+#+::::::::::::          • `Hobbies.Gaming:` ............ `Competitive Games`, `Rogue-likes`
+::::::::::::-.:+##%#++####%%##+:+-:::::::::::          • `Hobbies.Outside.Tech:` .... `Soccer`, `Photography`, `Movies`
+::::::::::::---+*##*==***#%%%*+#+::::::::::::          • `Hobbies.Gaming:` .......... `Competitive Games`, `Rogue-likes`
 ........::::::.=+*++==++*#**#+-=:::::::::::::          
 ............:..-+*+==+++++*#*-.::::::::::::::          — `About Me` ____________________________________________________________
 ...............:-=*******##+=::::::::::::::::          I’m a recent Computer Science graduate who enjoys
@@ -17,8 +17,8 @@
 ..........    .*#*+===+**##%%:  ...::::::::::          and a desire to build things that matter.
 .....          =%%%%#***#%@@#.       ...:::::          
                :#%%%#+++*%@@=             ...          — `Contact` ____________________________________________________________
-                *%#=:---=*#%.                          • `Email:` ...................... ulyssiesadams@gmail.com
-                =%@%=:-=@@%+                           • `LinkedIn:` ................... linkedin.com/in/ulyssiesadams
+                *%#=:---=*#%.                          • `Email:` .................. ulyssiesadams@gmail.com
+                =%@%=:-=@@%+                           • `LinkedIn:` ............... linkedin.com/in/ulyssiesadams
                 :%@%=:--%%%-                           • 
                  *@*:---+@#.                           • 
                                                        
