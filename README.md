@@ -3,13 +3,13 @@
 ### Stats
 - **Uptime:** 24 years, still learning  
 - **IDEs:** VSCode, IntelliJ, Android Studio  
-- **Languages (Programming):** Python, JavaScript, Java, SQL, R  
+- **Languages (Programming):** Python, SQL, JavaScript, Java, R  
 - **Languages (Markup):** HTML, CSS, Markdown  
 - **Languages (Spoken):** English, Tagalog (work in progress)  
 
 ### Hobbies
 - **Outside Tech:** Soccer, Photography, Movies, Rock-Climbing, Dog Shelter volunteer  
-- **Gaming:** Competitive Games, Rogue-likes  
+- **Gaming:** Competitive Games, Rogue-likes, Fantasy 
 
 ---
 
