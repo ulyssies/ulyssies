@@ -1,4 +1,4 @@
-## Ulysses Adams
+## Ulyssies Adams
 
 ### Stats
 - **IDEs:** VSCode, IntelliJ, Android Studio  
