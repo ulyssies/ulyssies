@@ -3,7 +3,7 @@
 ### Stats
 - **IDEs:** VSCode, IntelliJ, Android Studio  
 - **Languages (Programming):** Python, SQL, JavaScript, Java, R  
-- **Languages (Markup):** HTML, CSS, Markdown  
+- **Languages (Markup):** HTML, CSS  
 - **Languages (Spoken):** English, Tagalog (work in progress)  
 
 ---
