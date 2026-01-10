@@ -1,20 +1,15 @@
 ## Ulysses Adams
 
 ### Stats
-- **Uptime:** 24 years, still learning  
 - **IDEs:** VSCode, IntelliJ, Android Studio  
 - **Languages (Programming):** Python, SQL, JavaScript, Java, R  
 - **Languages (Markup):** HTML, CSS, Markdown  
 - **Languages (Spoken):** English, Tagalog (work in progress)  
 
-### Hobbies
-- **Outside Tech:** Soccer, Photography, Movies, Rock-Climbing, Dog Shelter volunteer  
-- **Gaming:** Competitive Games, Rogue-likes, Fantasy 
-
 ---
 
 ### About Me
-I’m a recent Computer Science graduate who enjoys turning ideas into interactive tools, clean interfaces, and data-driven insights. Driven by curiosity, creativity, and a desire to build things that matter.  
+I’m a recent Computer Science graduate who enjoys turning ideas into interactive tools, clean interfaces, and building fun personal projects. Driven by curiosity, creativity, and a desire to build things that matter.  
 
 ---
 
