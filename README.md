@@ -10,7 +10,7 @@
 
 ---
 
-CS graduate building intelligent systems end to end — from the data that trains them to the applications that use them. Currently focused on data engineering, AI tooling, and full-stack development.
+CS graduate building intelligent systems end to end, from the data that trains them to the applications that use them. Currently focused on data engineering, AI tooling, and full-stack development.
 
 ---
 
