@@ -27,14 +27,3 @@ I like to build things. Agentic AI tools, data pipelines, full-stack apps, I enj
 
 ---
 
-### A few other things
-
-- Played competitive soccer for 14 years
-- Rock climber working toward V8
-- Currently learning Tagalog
----
-
-### Goals
-- Land a data analyst or SWE role where I can contribute, build and learn new technology and methodologies
-- Complete the GT OMSA and go deep on ML and large-scale data
-- Create an app with 10,000 users 
