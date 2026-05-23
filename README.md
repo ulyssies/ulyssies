@@ -12,8 +12,6 @@
 
 I like to build things. Agentic AI tools, data pipelines, full-stack apps, I enjoy taking problems I come across on my day to day and creating a solution that eases the process. MS Analytics student at Georgia Tech and CS grad from Georgia State, Cum Laude.
 
-Currently working in data operations at Shiplify while independently building and deploying projects on the side. Recent work includes an autonomous job matching agent, an AI news podcast generator, and a Telegram nutrition tracker powered by Claude Vision — all live, all built solo. Looking for the next idea to turn into an app or service.
-
 ---
 
 ### Tech Stack
