@@ -3,7 +3,8 @@
 # Ulyssies Adams
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ulyssiesadams-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ulyssiesadams)
-[![Portfolio](https://img.shields.io/badge/Portfolio-ulyssies.github.io-black?style=flat&logo=github&logoColor=white)](https://ulyssies.github.io/personal-website/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ulyssies.com-black?style=flat&logo=github&logoColor=white)](https://ulyssies.com)
+(https://ulyssies.github.io/personal-website/)
 [![Email](https://img.shields.io/badge/Email-ulyssiesadams@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ulyssiesadams@gmail.com)
 
 </div>
